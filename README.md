@@ -60,34 +60,22 @@
 
 ---
 
-### 🚀 Featured Projects
+###
 
-#### 🍅 Tomato – Food Ordering Portal  
-A full-stack online food ordering platform where users can browse the menu, add to cart, and place orders.  
-**Tech Stack**: React, Node.js, Express, MongoDB, Tailwind CSS  
-> Includes: Authentication, Cart, Order History, Admin Menu Management  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-🔗 [View Repository](https://github.com/anup2702/tomato)
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-#### 🧾 Grievana – Complaint & Registration System  
-A grievance redressal system for college campuses. Students can submit complaints, and admins can resolve or track status.  
-**Tech Stack**: MERN Stack, JWT, MongoDB  
-> Features: Role-based login, complaint form, status tracking, and resolver dashboard
-
-🔗 [View Repository](https://github.com/anup2702/grievana)
-
----
-
-#### ☕ BuildOnCoffee – Open Source Contribution Hub  
-An open-source platform built for GSSoC 2025 to manage contributions and reward top contributors via a points-based system.  
-**Tech Stack**: Full-stack JavaScript, GitHub APIs  
-> Focus: Contribution tracking, issue tagging, OSS recognition via certificates
-
-🔗 [View Repository](https://github.com/anup2702/buildoncoffee)
-
----
+###
 
 ### 🧩 Fun Facts
 
